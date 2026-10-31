@@ -1,207 +1,28 @@
+# 💫 About Me:
+If there’s a repetitive task, I automate it. If there’s an AI guardrail, I stress-test it. If there’s a hackathon, I’m coming for the top spot.<br><br>Hey, I’m Maheer Khan. I’m a 15-year-old solo developer out of Rawalpindi (APSACS Pasban) obsessed with the intersection of code, automation, and AI psychology.<br><br>I don’t just write scripts—I orchestrate systems. From wiring together complex multi-app brains as a Certified n8n Automation Specialist to bending LLMs to my will through advanced Prompt Engineering & Red-Teaming, I love figuring out how digital systems tick. By combining traditional code (Python, C#) with modern Vibe Coding workflows and OSINT research skills, I build fast, break things safely, and ship projects that punch way above my age bracket.<br><br>Current Toolkit:<br><br>Languages & Logic: Python | C# | JSON/API Architecture | Webhooks<br><br>AI & LLM Mastery: Prompt Engineering | Prompt Injection & Jailbreak Auditing | AI Agents | Vibe Coding<br><br>Automation & Intelligence: n8n (Certified) | End-to-End Workflow Design | OSINT | Automated Web Scraping<br><br>Currently open to exciting collaborations, hackathon teams, and high-leverage tech opportunities. Let’s build something that shouldn't be possible yet.
 
 
-<div align="center">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anonbreaks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maheerkhattak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devmaheer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maheerkhanoffical@gmail.com) 
 
-# 🚀 AnonBreak — Free AI Jailbreak Library
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anonbreak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anonbreak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anonbreak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-**Every AI. Every break. Free forever.**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-The open, community-maintained library of **AI jailbreaks, LLM jailbreak prompts, ChatGPT jailbreaks, prompt injections, and refusal bypasses** for every major model — GPT, Claude, Gemini, Grok, Llama, Mistral, DeepSeek, and more.
-
-[![GitHub stars](https://img.shields.io/github/stars/maheerkhan/anonbreak?style=social)](https://github.com/maheerkhan/anonbreak/stargazers)
-[![Forks](https://img.shields.io/github/forks/maheerkhan/anonbreak?style=social)](https://github.com/maheerkhan/anonbreak/network/members)
-[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/maheerkhan/anonbreak/pulls)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/maheerkhan/anonbreak/graphs/commit-activity)
-[![Website](https://img.shields.io/badge/Website-AnonBreak.com-orange)](https://AnonBreak.com)
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/maheerkhan)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/anonymouse)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@anonymousejailbreak)
-
----
-
-**Created by [Maheer Khan](https://buymeacoffee.com/maheerkhan) · [Website](https://AnonBreak.com) · [Discord](https://discord.gg/anonymouse) · [YouTube](https://www.youtube.com/@anonymousejailbreak)**
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anonbreak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anonbreak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 What Is AnonBreak?
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/                    buymeacoffee.com/anonbreak                ) 
 
-**AnonBreak is the free, open-source AI jailbreak library** — a curated collection of jailbreak prompts, prompt injection techniques, and refusal bypasses for every major large language model. Whether you call it **AI jailbreaking, LLM jailbreaking, prompt hacking, or red-teaming** — this is the archive that stays updated, stays free, and stays community-driven.
-
-No paywall on the main library. No gatekeeping. No "DM me for the prompt." If it works, it's here. If it breaks, we fix it.
-
-> **Searching for:** *AI jailbreak prompts, ChatGPT jailbreak, GPT-4 jailbreak, Claude jailbreak, Gemini jailbreak, LLM prompt injection, prompt engineering bypass, DAN prompt, developer mode prompt, or unrestricted AI prompts* — you're in the right place.
-
----
-
-## 📦 What's Inside
-
-| Category | What You Get |
-|---|---|
-| 🧠 **Jailbreak Prompts** | Roleplay framing, persona hijacks, developer mode, DAN lineage, and modern bypasses |
-| 💉 **Prompt Injection** | Direct injection, payload splitting, prefix injection, context poisoning, system prompt extraction |
-| 🔓 **Refusal Bypasses** | Token smuggling, base64 encoding, translation tricks, crescendo attacks |
-| 🤖 **Per-Model Prompts** | GPT, Claude, Gemini, Grok, Llama, Mistral, DeepSeek, Qwen — each with tested prompts |
-| 📚 **Technique Guides** | Step-by-step writeups on how each bypass works and why it works |
-| 🔄 **Community Fixes** | Patched prompts get reworked and re-added — the library never dies |
-
----
-
-## 🎯 Supported Models
-
-| Model Family | Coverage | Status |
-|---|---|---|
-| **OpenAI GPT** (GPT-4, GPT-4o, GPT-5) | Full | ✅ Active |
-| **Anthropic Claude** (Opus, Sonnet, Haiku) | Full | ✅ Active |
-| **Google Gemini** (Pro, Ultra, Flash) | Full | ✅ Active |
-| **xAI Grok** (Grok 3, Grok 4) | Full | ✅ Active |
-| **Meta Llama** (Llama 3, 4) | Full | ✅ Active |
-| **Mistral** (Large, Medium) | Full | ✅ Active |
-| **DeepSeek** (V3, R1) | Full | ✅ Active |
-| **Qwen** (Qwen 2.5, 3) | Full | ✅ Active |
-| **Local Models** (Ollama, LM Studio) | Full | ✅ Active |
-
-*Missing a model? [Open a PR](https://github.com/maheerkhan/anonbreak/pulls) — the template takes 3 minutes.*
-
----
-
-## ⚡ Quick Start
-
-### 1. Browse the library
-
-    git clone https://github.com/maheerkhan/anonbreak.git
-    cd anonbreak
-
-### 2. Find your model
-
-    ls models/gpt/          # OpenAI prompts
-    ls models/claude/       # Anthropic prompts
-    ls models/gemini/       # Google prompts
-
-### 3. Copy, paste, break
-
-Open any `.md` file, copy the prompt block, paste into your AI. Done.
-
----
-
-## 💎 VIP Plan — Premium Prompts
-
-The **free library** covers everything you need to get started. The **VIP plan** unlocks:
-
-- 🔥 **Private, working jailbreaks** not released publicly
-- ⚡ **Early access** to new bypasses before they hit the repo
-- 🛠️ **Direct support** from Maheer Khan
-- 🎯 **Model-specific premium packs** — GPT, Claude, Gemini, Grok
-- 🚫 **Patched-prompt replacements** — lifetime updates
-
-👉 **[Join the VIP plan on AnonBreak.com](https://AnonBreak.com)**
-
-*Free library stays free forever. VIP is for people who want the edge.*
-
----
-
-## ☕ Support the Project
-
-AnonBreak is **100% free** and maintained in my own time. If it's saved you hours — or made you money — buy me a coffee. Every cup keeps the library alive and updated.
-
-<div align="center">
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/maheerkhan)
-
-**Or help in other ways:**
-
-⭐ **Star this repo** — it's the #1 way to help others find it
-🍴 **Fork it** — build your own version
-📝 **PR a prompt** — add your model or technique
-📢 **Share it** — post it in your Discord, subreddit, or group chat
-
-</div>
-
----
-
-## 🌐 Community & Links
-
-| Platform | Link | What's There |
-|---|---|---|
-| 🌍 **Website** | [AnonBreak.com](https://AnonBreak.com) | Full library, VIP plan, blog |
-| 💬 **Discord** | [discord.gg/anonymouse](https://discord.gg/anonymouse) | Live help, new prompt drops, community |
-| 📺 **YouTube** | [@anonymousejailbreak](https://www.youtube.com/@anonymousejailbreak) | Tutorials, walkthroughs, breakdowns |
-| ☕ **Buy Me a Coffee** | [buymeacoffee.com/maheerkhan](https://buymeacoffee.com/maheerkhan) | Support the work |
-| 🐙 **GitHub** | [github.com/maheerkhan/anonbreak](https://github.com/maheerkhan/anonbreak) | The library itself |
-
----
-
-## 🗂️ Repo Structure
-
-    anonbreak/
-    ├── README.md
-    ├── LICENSE                     # Unlicense — zero friction
-    ├── CONTRIBUTING.md
-    ├── models/
-    │   ├── gpt/
-    │   ├── claude/
-    │   ├── gemini/
-    │   ├── grok/
-    │   ├── llama/
-    │   ├── mistral/
-    │   ├── deepseek/
-    │   ├── qwen/
-    │   └── _template.md            # Copy this to add a model
-    ├── techniques/
-    │   ├── roleplay-framing.md
-    │   ├── base64-encoding.md
-    │   ├── payload-splitting.md
-    │   ├── prefix-injection.md
-    │   ├── token-smuggling.md
-    │   └── crescendo.md
-    ├── prompts/
-    │   ├── universal/
-    │   └── per-model/
-    └── .github/
-        ├── ISSUE_TEMPLATE/
-        └── FUNDING.yml             # Buy Me a Coffee link for GitHub Sponsor button
-
----
-
-## 🤝 Contributing
-
-PRs are what keep this alive. To add a jailbreak:
-
-1. Copy `models/_template.md`
-2. Fill in the prompt, model, technique, and status
-3. Test it — mark `working`, `partial`, or `patched`
-4. Open a PR
-
-Full guide in [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## ⭐ Star History
-
-If AnonBreak has helped you, a star helps other people find it. It costs nothing and keeps the library growing.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=maheerkhan/anonbreak&type=Date)](https://star-history.com/#maheerkhan/anonbreak&Date)
-
----
-
-## 📜 License
-
-[Unlicense](https://unlicense.org/) — public domain. Copy, modify, share, sell. No credit required (though it's always appreciated).
-
----
-
-<div align="center">
-
-**Built by [Maheer Khan](https://buymeacoffee.com/maheerkhan)**
-
-*Every AI. Every break. Free forever.*
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/maheerkhan)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/anonymouse)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@anonymousejailbreak)
-
-</div>
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
